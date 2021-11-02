@@ -1,5 +1,7 @@
 #EXTM3U
 #EXTINF: -1 group-title= Urbancris TV
 https://5790d294af2dc.streamlock.net/8160/8160/chunklist_w657695725.m3u8?qthaher
-#EXTINF: -1 group-title="Interior", ValleVision
+#EXTINF: -1 group-title= ValleVision
 https://streaming.telecablecentral.com.do/Vallevision/ValleHD/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://microvision.com.do/wp-content/uploads/2020/07/Logo-Microvision2020.png" group-title="Interior", MicroVision
+https://streaming.telecablecentral.com.do/live/MicroHD/playlist.m3u8
